@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a novice **web developer** passionate about web applications using modern technologies and learning how to make thinks right. Currently, I'm focused on:
 
-- **Tech Stack:** React, Next.js (v15), TypeScript, TailwindCSS, Prisma, tRPC, and MongoDB.
+- **Tech Stack:** React, Next.js (v15, v14, v13), TypeScript, TailwindCSS, Prisma, tRPC, and MongoDB.
 - **Web3:** Exploring decentralized technologies with tools like wagmi, ethers.js, and Web3.js.
 - **AI Enthusiast:** Customizing models on Hugging Face and leveraging AI to create impactful SaaS products.
 
