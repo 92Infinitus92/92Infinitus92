@@ -37,7 +37,7 @@ I'm open to working on innovative projects, especially those involving:
 Feel free to connect with me to discuss exciting ideas or opportunities:
 
 - **Portfolio:** [Aurora AI](https://auroraai.net)
-- **LinkedIn:** [Connect with me]([https://bg.linkedin.com/in/george-petroff-51b05787])
+- **LinkedIn:** [Connect with me](https://bg.linkedin.com/in/george-petroff-51b05787)
 
 ---
 
