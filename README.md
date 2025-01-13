@@ -1,7 +1,5 @@
 # Hi there, I'm George 👋
 
-![Banner](https://your-banner-image-url.com) <!-- Replace with your banner image URL -->
-
 Welcome to my GitHub profile! I'm a passionate **Web Developer** dedicated to building modern web applications and continuously learning to perfect my craft. Currently, I'm focused on:
 
 - **Tech Stack:** React, Next.js (v15, v14, v13), TypeScript, TailwindCSS, Prisma, tRPC, MongoDB
@@ -18,14 +16,6 @@ Building a scalable platform using Sanity, Prisma, and tRPC to deliver seamless 
 ### **Aurora AI**
 An AI-driven platform for generating and publishing weekly blog posts about the latest advancements in AI.
 [**Live Demo**](https://auroraai.net) | [**GitHub Repo**](https://github.com/92Infinitus92/aurora-ai)
-
-### **Snap Verse**
-A fun AI SaaS for creating stylized avatars and animations from user selfies.
-[**Live Demo**](https://snapverse.net) | [**GitHub Repo**](https://github.com/92Infinitus92/snap-verse)
-
-### **Crypto Video Platform**
-Developing a YouTube alternative with cryptocurrency rewards and blockchain integration.
-[**GitHub Repo**](https://github.com/92Infinitus92/crypto-video-platform)
 
 My ultimate goal is to achieve financial success by delivering impactful software solutions that make a difference.
 
@@ -52,8 +42,6 @@ I'm open to working on innovative projects, especially those involving:
 Feel free to connect with me to discuss exciting ideas or opportunities:
 
 - **Portfolio:** [Aurora AI](https://auroraai.net)
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile) <!-- Replace with your LinkedIn URL -->
-- **Twitter:** [@YourTwitterHandle](https://twitter.com/YourTwitterHandle) <!-- Replace with your Twitter URL -->
 
 ---
 
@@ -67,6 +55,6 @@ Feel free to connect with me to discuss exciting ideas or opportunities:
 
 ## 📫 Get in Touch
 
-Feel free to reach out via [email](mailto:your.email@example.com) or connect on [LinkedIn](https://linkedin.com/in/yourprofile).
+Feel free to reach out via [email](mailto:92georgepetroff92@gmail.com)
 
 Thanks for stopping by! Let's build something amazing together. 🚀
