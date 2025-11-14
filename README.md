@@ -1,67 +1,144 @@
-# Hi there, I'm George 👋
+<h1 align="center">🚀 George Petroff — Full-Stack Developer</h1>
+<p align="center">
+  <strong>React • Next.js • TypeScript • Web3 • AI Engineering</strong>
+</p>
 
-Welcome to my GitHub profile! I'm a passionate **Web Developer** dedicated to building modern web applications and continuously learning to perfect my craft. Currently, I'm focused on:
-
-- **Tech Stack:** React, Next.js (v15, v14, v13), TypeScript, TailwindCSS, Prisma, tRPC, MongoDB
-- **Web3:** Exploring decentralized technologies with tools like wagmi, ethers.js, and Web3.js
-- **AI Enthusiast:** Customizing models on Hugging Face and leveraging AI to create impactful SaaS products
-
----
-
-## 🌟 Projects & Goals
-
-### **E-commerce Platform**
-Building a scalable platform using Sanity, Prisma, and tRPC to deliver seamless shopping experiences.
-
-### **Aurora AI**
-An AI-driven platform for generating and publishing weekly blog posts about the latest advancements in AI.  
-[**Live Demo**](https://auroraai.net) | [**GitHub Repo**](https://github.com/92Infinitus92/aurora-ai)
-
-My ultimate goal is to achieve financial success by delivering impactful software solutions that make a difference.
+<p align="center">
+  Building scalable products • Automating creativity with AI • Exploring decentralized tech
+</p>
 
 ---
 
-## 🏆 Stats & Activity
-
-<!-- Classic GitHub Stats -->
-![George's GitHub Stats](https://github-readme-stats.vercel.app/api?username=92Infinitus92&show_icons=true&theme=radical&count_private=true)
-
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=92Infinitus92&layout=compact&theme=radical)
-
-<!-- Contribution Graph -->
-![GitHub Contribution](https://github-readme-activity-graph.vercel.app/graph?username=92Infinitus92&theme=react-dark)
-
-<!-- Custom Metrics (optional, requires GH API token for accurate private stats):
-[![Metrics](https://raw.githubusercontent.com/92Infinitus92/92Infinitus92/master/github-metrics.svg)](https://github.com/lowlighter/metrics)
-Uncomment above after setting up 'lowlighter/metrics' workflow for turbo-charged badges!
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web3-FFD700?style=for-the-badge&logo=ethereum&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
 
 ---
 
-## 🔧 Let's Collaborate!
+## 🔥 About Me
 
-I'm open to working on innovative projects, especially those involving:
-
-- Web3 technologies
-- AI integrations
-- Scalable web applications
-
-Feel free to connect with me to discuss exciting ideas or opportunities:
-
-- **Portfolio:** [Aurora AI](https://auroraai.net)
+- Full-stack engineer working with **React, Next.js 15, TypeScript & TailwindCSS**
+- Backend using **tRPC, Prisma, MongoDB & PostgreSQL**
+- Web3 dev exploring **ethers.js, wagmi, smart contract tooling**
+- AI engineer building **GPTScript pipelines, Hugging Face custom models, LLM agents**
+- Passionate about speed, clean code, and real-world performance
+- Father of a baby girl born **Aug 1, 2024** 🍼
 
 ---
 
-## 💡 Fun Facts
+# 🌟 Featured Projects
 
-- Aiming to learn blockchain development alongside Web3
-- Always exploring ways to optimize performance and user experience
+### 🧠 **Aurora AI — Automated AI-Blog Platform**
+Generates weekly AI-news articles using LLM pipelines & GPTScript.
+
+🔗 **Live App:** https://auroraai.net  
+🔗 **Repo:** https://github.com/92Infinitus92/aurora-ai
 
 ---
 
-## 📫 Get in Touch
+# 📊 GitHub Performance Dashboard
 
-Feel free to reach out via [email](mailto:92georgepetroff92@gmail.com)
+<div align="center">
 
-Thanks for stopping by! Let's build something amazing together. 🚀
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=92Infinitus92&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=false" 
+  height="180"
+/>
+
+<img
+  src="https://streak-stats.demolab.com?user=92Infinitus92&theme=radical&mode=weekly&hide_border=false"
+  height="180"
+/>
+
+</div>
+
+---
+
+### 🧬 Top Languages
+
+<div align="center">
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=92Infinitus92&layout=compact&count_private=true&theme=radical&hide_border=false" 
+  height="160"
+/>
+
+</div>
+
+---
+
+### 📈 Contribution Heatmap
+
+<div align="center">
+
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=92Infinitus92&theme=react-dark&hide_border=false&area=true" 
+/>
+
+</div>
+
+---
+
+# ⚙️ Tech & Tools
+
+<table align="center">
+<tr>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,ts,tailwind,prisma,graphql,postgres,mongodb" />
+</td>
+</tr>
+<tr>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,vercel,docker,redis,git,github,linux" />
+</td>
+</tr>
+<tr>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=ethers,solidity,web3,bash,neovim,vscode" />
+</td>
+</tr>
+</table>
+
+---
+
+# 🔮 Current Focus
+
+### **🚀 Building multiple AI-powered SaaS products**
+LLM workflows, agent orchestration, automated content pipelines.
+
+### **🌐 Web3 development**
+Wallet integrations, contract events, token systems.
+
+### **⚡ Performance & DX**
+Full-stack performance optimization across React & Next.js.
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<div align="center">
+
+![snake gif](https://github.com/92Infinitus92/92Infinitus92/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+*(If you want this snake animation generated automatically, tell me — I’ll set up the workflow YAML.)*
+
+---
+
+# 📫 Contact
+
+- **Email:** 92georgepetroff92@gmail.com  
+- **Portfolio:** https://auroraai.net  
+- **Open to collaborations** involving Web3, AI, full-stack development, and SaaS products.
+
+---
+
+<p align="center">
+<b>Thanks for visiting — let's build something extraordinary 🚀</b>
+</p>
