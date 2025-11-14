@@ -1,0 +1,32 @@
+name: 🧮 GitHub Metrics
+
+on:
+  schedule:
+    - cron: '0 */12 * * *' # updates every 12 hours
+  workflow_dispatch:
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          user: 92Infinitus92
+          template: classic
+          base: header, activity, community, repositories, metadata
+
+          config_timezone: Europe/Sofia
+          base_indepth: yes
+
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_recent_load: 500
+
+          plugin_contributors: no
+          plugin_stars: yes
+          plugin_followup: yes
