@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** dedicated to bu
 Building a scalable platform using Sanity, Prisma, and tRPC to deliver seamless shopping experiences.
 
 ### **Aurora AI**
-An AI-driven platform for generating and publishing weekly blog posts about the latest advancements in AI.
+An AI-driven platform for generating and publishing weekly blog posts about the latest advancements in AI.  
 [**Live Demo**](https://auroraai.net) | [**GitHub Repo**](https://github.com/92Infinitus92/aurora-ai)
 
 My ultimate goal is to achieve financial success by delivering impactful software solutions that make a difference.
@@ -23,11 +23,19 @@ My ultimate goal is to achieve financial success by delivering impactful softwar
 
 ## 🏆 Stats & Activity
 
-![George's GitHub Stats](https://github-readme-stats.vercel.app/api?username=92Infinitus92&show_icons=true&theme=radical)
+<!-- Classic GitHub Stats -->
+![George's GitHub Stats](https://github-readme-stats.vercel.app/api?username=92Infinitus92&show_icons=true&theme=radical&count_private=true)
 
+<!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=92Infinitus92&layout=compact&theme=radical)
 
+<!-- Contribution Graph -->
 ![GitHub Contribution](https://github-readme-activity-graph.vercel.app/graph?username=92Infinitus92&theme=react-dark)
+
+<!-- Custom Metrics (optional, requires GH API token for accurate private stats):
+[![Metrics](https://raw.githubusercontent.com/92Infinitus92/92Infinitus92/master/github-metrics.svg)](https://github.com/lowlighter/metrics)
+Uncomment above after setting up 'lowlighter/metrics' workflow for turbo-charged badges!
+-->
 
 ---
 
@@ -47,7 +55,6 @@ Feel free to connect with me to discuss exciting ideas or opportunities:
 
 ## 💡 Fun Facts
 
-- Proud father of a girl born on August 1, 2024 🍼
 - Aiming to learn blockchain development alongside Web3
 - Always exploring ways to optimize performance and user experience
 
