@@ -1,5 +1,8 @@
 name: 🧮 GitHub Metrics
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: '0 */12 * * *'
@@ -9,13 +12,10 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Metrics
+      - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-
-          output_action: commit
-          output_path: metrics_renders
           filename: metrics.svg
 
           user: 92Infinitus92
@@ -30,6 +30,5 @@ jobs:
           plugin_languages_sections: most-used, recently-used
           plugin_languages_recent_load: 500
 
-          plugin_contributors: no
           plugin_stars: yes
           plugin_followup: yes
