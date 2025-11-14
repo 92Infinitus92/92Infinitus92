@@ -2,7 +2,7 @@ name: 🧮 GitHub Metrics
 
 on:
   schedule:
-    - cron: '0 */12 * * *' # updates every 12 hours
+    - cron: '0 */12 * * *'
   workflow_dispatch:
 
 jobs:
@@ -12,8 +12,11 @@ jobs:
       - name: Generate Metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
+
+          output_action: commit
+          output_path: metrics_renders
+          filename: metrics.svg
 
           user: 92Infinitus92
           template: classic
