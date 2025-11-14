@@ -25,8 +25,8 @@
 - Full-stack engineer working with **React, Next.js 15, TypeScript & TailwindCSS**
 - Backend using **tRPC, Prisma, MongoDB & PostgreSQL**
 - Web3 dev exploring **ethers.js, wagmi, smart contract tooling**
-- AI engineer building **GPTScript pipelines, Hugging Face custom models, LLM agents**
-- Passionate about speed, clean code, and real-world performance
+- AI engineer building **GPTScript pipelines, HuggingFace models, and LLM agents**
+- Passionate about speed, clean code, scalable architectures & product thinking
 - Father of a baby girl born **Aug 1, 2024** 🍼
 
 ---
@@ -34,50 +34,30 @@
 # 🌟 Featured Projects
 
 ### 🧠 **Aurora AI — Automated AI-Blog Platform**
-Generates weekly AI-news articles using LLM pipelines & GPTScript.
+Generates weekly AI news articles using LLM pipelines & GPTScript.
 
 🔗 **Live App:** https://auroraai.net  
 🔗 **Repo:** https://github.com/92Infinitus92/aurora-ai
 
 ---
 
-# 📊 GitHub Performance Dashboard
+# 📊 GitHub Metrics (Real Contribution Stats)
 
 <div align="center">
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=92Infinitus92&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=false" 
-  height="180"
-/>
-
-<img
-  src="https://streak-stats.demolab.com?user=92Infinitus92&theme=radical&mode=weekly&hide_border=false"
-  height="180"
-/>
+<img src="https://raw.githubusercontent.com/92Infinitus92/92Infinitus92/main/metrics.svg" alt="GitHub Metrics" width="100%"/>
 
 </div>
 
 ---
 
-### 🧬 Top Languages
+# 🧬 Top Languages (Real Usage)
 
 <div align="center">
 
 <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=92Infinitus92&layout=compact&count_private=true&theme=radical&hide_border=false" 
   height="160"
-/>
-
-</div>
-
----
-
-### 📈 Contribution Heatmap
-
-<div align="center">
-
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=92Infinitus92&theme=react-dark&hide_border=false&area=true" 
 />
 
 </div>
@@ -108,14 +88,14 @@ Generates weekly AI-news articles using LLM pipelines & GPTScript.
 
 # 🔮 Current Focus
 
-### **🚀 Building multiple AI-powered SaaS products**
-LLM workflows, agent orchestration, automated content pipelines.
+### 🚀 AI-Powered SaaS Development  
+LLM orchestration, GPTScript pipelines, fast content generation systems.
 
-### **🌐 Web3 development**
-Wallet integrations, contract events, token systems.
+### 🌐 Web3  
+Wallet integrations, contract events, token systems, and decentralized applications.
 
-### **⚡ Performance & DX**
-Full-stack performance optimization across React & Next.js.
+### ⚡ Performance & DX  
+Optimizing React + Next.js performance and building clean developer-friendly architectures.
 
 ---
 
@@ -123,11 +103,9 @@ Full-stack performance optimization across React & Next.js.
 
 <div align="center">
 
-![snake gif](https://github.com/92Infinitus92/92Infinitus92/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/92Infinitus92/92Infinitus92/blob/output/snake.svg" alt="Snake animation"/>
 
 </div>
-
-*(If you want this snake animation generated automatically, tell me — I’ll set up the workflow YAML.)*
 
 ---
 
@@ -135,10 +113,10 @@ Full-stack performance optimization across React & Next.js.
 
 - **Email:** 92georgepetroff92@gmail.com  
 - **Portfolio:** https://auroraai.net  
-- **Open to collaborations** involving Web3, AI, full-stack development, and SaaS products.
+- Open to collaborations involving **Web3, AI, full-stack development, and SaaS products**
 
 ---
 
 <p align="center">
-<b>Thanks for visiting — let's build something extraordinary 🚀</b>
+<b>Thanks for stopping by — let's build something extraordinary 🚀</b>
 </p>
