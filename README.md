@@ -46,7 +46,7 @@ Generates weekly AI news articles using LLM pipelines & GPTScript.
 <div align="center">
 
 <img 
-  src="https://raw.githubusercontent.com/92Infinitus92/92Infinitus92/main/metrics_renders/metrics.svg" 
+  src="https://raw.githubusercontent.com/92Infinitus92/92Infinitus92/main/metrics.svg" 
   alt="GitHub Metrics"
   width="100%"
 /></div>
