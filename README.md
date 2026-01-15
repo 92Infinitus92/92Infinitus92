@@ -1,4 +1,4 @@
-<h1 align="center">🚀 George Petroff — Full-Stack Developer</h1>
+<h1 align="center">George Petroff</h1>
 <p align="center">  <strong>React • Next.js • TypeScript • Web3 • AI Engineering</strong> </p>
 
 <p align="center">  Building scalable products • Automating creativity with AI • Exploring decentralized tech</p>
@@ -23,7 +23,6 @@
 - Web3 dev exploring **ethers.js, wagmi, smart contract tooling**
 - AI engineer building **GPTScript pipelines, HuggingFace models, and LLM agents**
 - Passionate about speed, clean code, scalable architectures & product thinking
-- Father of a baby girl born **Aug 1, 2024** 🍼
 
 ---
 
